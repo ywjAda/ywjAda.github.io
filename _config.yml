@@ -1,10 +1,10 @@
 # Site settings
 title: BY Blog
-SEOTitle: 乐雯娇的博客 |BY Blog
+SEOTitle: 乐雯娇的博客 |My Blog
 header-img: img/post-bg-desk.jpg
 email: wenjiao_yue@163.com
 description: "Ada's house"
-keyword: "BY, BY Blog, 乐雯娇的博客, yuewenjiao, ywj"
+keyword: "YWJ, YWJ Blog, 乐雯娇的博客, yuewenjiao, 前端"
 url: "https://ywjada.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ywjAda/ywjAda.github.io" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/ywjAda/ywjAda.github.io" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar-g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-by.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -23,7 +23,7 @@ RSS: false
 github_username:    ywjAda
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
-CSDN_username: Ada_lake
+#CSDN_username: Ada_lake
 twitter_username:   ywj_Ada
 
 
