@@ -104,3 +104,10 @@ friends: [
         href: ""
     }
 ]
+
+# gems
+gems: [jekyll-paginate]
+
+
+#gems
+gems: [jekyll-paginate]
