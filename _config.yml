@@ -105,9 +105,12 @@ friends: [
     }
 ]
 
+plugins: [jekyll-paginate]
 # gems
-gems: [jekyll-paginate]
-
-
-#gems
-gems: [jekyll-paginate]
+# gem 'github-pages'
+# gem 'html-proofer'
+# gem "jekyll"
+gem : 'jekyll-paginate'
+# gem "pygments.rb"
+#
+gems: [jekyll-paginate, jekyll-gist]
